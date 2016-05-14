@@ -1,0 +1,6 @@
+[mysql]
+server=<server address>
+user=<db server user>
+password=<db server password>
+database=<database name>
+
